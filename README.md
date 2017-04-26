@@ -15,7 +15,7 @@ This project has been built to educational purposes.
 * Angular-Charts
 * gulp based workflow
 * One-way dataflow
-* Follows latest industry standards - [Angular StyleGuide](https://github.com/toddmotto/angular-styleguide)
+* Follows latest industry standards - [Angular StyleGuide]()
 
 #### Getting Started
 
